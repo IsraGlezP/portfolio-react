@@ -1,5 +1,4 @@
 // Import pages
-import AboutSection from "./components/AboutSection";
 import AboutUs from "./pages/AboutUs";
 
 function App() {
